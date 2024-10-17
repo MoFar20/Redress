@@ -12,7 +12,7 @@ ReDress is a fashion platform dedicated to promoting sustainability by encouragi
 * Sustainability Focus: Promotes eco-friendly behavior by reducing waste and conserving resources through clothing rentals.
 
 ## Navigation
-*Home*: Overview of available categories and featured clothing items.
+* Home: Overview of available categories and featured clothing items.
 * Women/Men: Sections dedicated to clothing items for women and men.
 * Occasions: Special clothing selections for various occasions.
 * New Arrivals: Discover the latest additions to the platform.
