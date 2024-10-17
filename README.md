@@ -20,9 +20,9 @@ ReDress is a fashion platform dedicated to promoting sustainability by encouragi
 **About Us:** Learn about ReDress’s mission and sustainability efforts.
 
 ## Technologies Used
-**Frontend:** HTML, CSS, TypeScript
-**Backend:** MySQL 
-**Responsive Design:** Optimized for various devices to ensure a seamless user experience.
+- **Frontend:** HTML, CSS, TypeScript
+- **Backend:** MySQL 
+- **Responsive Design:** Optimized for various devices to ensure a seamless user experience.
 
 ## Vision
 ReDress aims to reshape the fashion industry by promoting a culture of sharing rather than owning. By encouraging clothing rentals, the platform hopes to minimize the ecological footprint of fashion and foster sustainable consumption.
